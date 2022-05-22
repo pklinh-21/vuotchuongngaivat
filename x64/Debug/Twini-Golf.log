@@ -1,0 +1,8 @@
+﻿  Main.cpp
+C:\Users\Admin\Music\Twini-Golf(main)\Twini-Golf\Ball.h(59,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Admin\Music\Twini-Golf(main)\Twini-Golf\Main.cpp(257,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Admin\Music\Twini-Golf(main)\Twini-Golf\Main.cpp(257,28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Admin\Music\Twini-Golf(main)\Twini-Golf\Main.cpp(275,81): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Admin\Music\Twini-Golf(main)\Twini-Golf\Main.cpp(275,47): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Admin\Music\Twini-Golf(main)\Twini-Golf\Main.cpp(355,43): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Twini-Golf.vcxproj -> C:\Users\Admin\Music\Twini-Golf(main)\x64\Debug\Twini-Golf.exe

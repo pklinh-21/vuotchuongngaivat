@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="res">
+      <UniqueIdentifier>{63280178-2d68-41c5-923f-5df0cab901e0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Ball.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Entity.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Hole.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Math.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RenderWindow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Tile.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="ball.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="entity.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="hole.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="renderwindow.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="tile.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\..\..\..\Desktop\res\gfx\ball.png">
+      <Filter>res</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Desktop\res\gfx\ball_shadow.png">
+      <Filter>res</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Desktop\res\gfx\bg.png">
+      <Filter>res</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Desktop\res\gfx\click2start.png">
+      <Filter>res</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Desktop\res\gfx\end.png">
+      <Filter>res</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Desktop\res\gfx\endscreen_overlay.png">
+      <Filter>res</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Desktop\res\gfx\hole.png">
+      <Filter>res</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Desktop\res\gfx\levelText_bg.png">
+      <Filter>res</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Desktop\res\gfx\logo.png">
+      <Filter>res</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Desktop\res\gfx\point.png">
+      <Filter>res</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Desktop\res\gfx\powermeter_bg.png">
+      <Filter>res</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Desktop\res\gfx\powermeter_fg.png">
+      <Filter>res</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Desktop\res\gfx\powermeter_overlay.png">
+      <Filter>res</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Desktop\res\gfx\splashBg.png">
+      <Filter>res</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Desktop\res\gfx\tile32_dark.png">
+      <Filter>res</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Desktop\res\gfx\tile32_light.png">
+      <Filter>res</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Desktop\res\gfx\tile64_dark.png">
+      <Filter>res</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Desktop\res\gfx\tile64_light.png">
+      <Filter>res</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Desktop\res\gfx\UI_bg.png">
+      <Filter>res</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
